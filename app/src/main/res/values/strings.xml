@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CollegeLoanCalculator</string>
+    <string name="enter_amount">\"Enter Amount of the Loan\"</string>
+    <string name="loan_rate">\"Loan Rate\"</string>
+    <string name="tip_percentage">15%</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="interest_rate" />
+    <string name="interest_rate2">Interest Rate %</string>
+    <string name="enter_amount2">Enter Loan Amount</string>
+    <string name="interest_total">Interest Rate Total</string>
+    <string name="interest_total2">Interest Total Amount</string>
+</resources>
